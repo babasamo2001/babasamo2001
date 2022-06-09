@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @babasamo2001
 - 👀 I’m interested in MERN stack
-- 🌱 I’m in my 7th month of fast learning 
-- 💞️ I’m looking to collaborate on MERN's related activities/projects/tutorials
+- 💞️ I’m looking to collaborate on MERN stack related projects
 - 📫 How to reach me babasamo2001@yahoo.com
 
 <!---
